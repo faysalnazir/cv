@@ -1,0 +1,17 @@
+body {
+  background-color: #ebcfc4;
+}
+h1,h2,h3,h4 {
+   color: #120078;
+ }
+hr {
+  border-color: grey;
+  border-width: 5%;
+  border-style: dotted none none;
+  width:5%;
+
+  /*
+  2nd way to change the border
+  border-style: none;
+  border-top-style:dotted;
+  */
